@@ -1,0 +1,25 @@
+{
+  "About": {
+    "paragraph": "We worked in a team of four people. Erica worked on restful API, Preyasha and Pooja worked on frontend UI and Christopher worked on backend database. "
+  },
+
+  "Team": [
+    {
+      "img": "img/team/erica.jpg",
+      "name": "Erica Butts"
+    },
+    {
+      "img": "img/team/preyasha.jpg",
+      "name": "Preyasha Patel"
+    },
+    {
+      "img": "img/team/pooja.jpg",
+      "name": "Pooja Kittanakere Balaji"
+    },
+    {
+      "img": "img/team/christopher.jpg",
+      "name": "Christopher Simon"
+    }
+  ]
+
+}
