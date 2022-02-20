@@ -19,7 +19,7 @@ We created an application using frontend framework, backend framework and API en
 > For an existing user\
 > For correct username but incorrect password\
 > For incorrect username but correct password\
-> For incorrect username and incorrect password
+> For incorrect username and incorrect password\
 **Signup**
 > For a new user
 **Username text field input**
