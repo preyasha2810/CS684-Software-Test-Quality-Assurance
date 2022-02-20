@@ -15,18 +15,18 @@ We created an application using frontend framework, backend framework and API en
 - Express
 
 ### Frontend
-* Username input
+**Username input**
 > For an existing user\
 > For correct username but incorrect password\
 > For incorrect username but correct password\
 > For incorrect username and incorrect password
-#### Signup
+**Signup**
 > For a new user
-#### Username text field input
-#### Password text field input
-#### Sign out
+**Username text field input**
+**Password text field input**
+**Sign out**
 > User clicks on sign out button
-#### Landing page
+**Landing page**
 > User visits website
 #### Signed out page
 #### Sign in page
