@@ -15,38 +15,38 @@
 - [Responsibilities](#responsibilities)
 - [Schedule](#schedule)
 
-### Introduction
+## Introduction
 
 The Test Plan should be created to help the project's team members communicate more effectively. It specifies the procedures and methodologies that will be used during the application's testing phase. It will include project description, test phases, test responsibilities, pass/fail criteria, approach, and important schedule milestones.
 
-  ## Team Members
+  ### Team Members
   - Erica Butts
   - Christopher Simon
   - Pooja Kittanakere Balaji
   - Preyasha Patel
   
-  ## Project Name
+  ### Project Name
   - CS684: News Feed WebApp
 
-  ## Project Description
+  ### Project Description
 
-### Test Items
+## Test Items
 
-### Test Features
+## Test Features
 
-### Approach
+## Approach
 
-  ## Unit Testing
-  ## Integration Testing
-  ## System Testing
+  ### Unit Testing
+  ### Integration Testing
+  ### System Testing
   
-### Pass/Fail Criteria
+## Pass/Fail Criteria
 
-### Testing Tasks
+## Testing Tasks
 
-### Responsibilities
+## Responsibilities
 
-### Schedule
+## Schedule
 
 | # 	| Activity 	| Target Start Duration 	| Target End Duration 	| Responsibility 	|
 |---	|----------	|-----------------------	|---------------------	|----------------	|
