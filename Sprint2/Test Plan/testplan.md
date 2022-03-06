@@ -38,7 +38,7 @@ The Test Plan should be created to help the project's team members communicate 
 - Settings
 
 ## Test Features
-  ## Sign Up page
+  ### Sign Up page
   - Implement a form that will sign in a user
   - The form shall use a textbox to collect a user name
   - The user name shall be required
@@ -59,7 +59,7 @@ The Test Plan should be created to help the project's team members communicate 
   - When the form is correctly filled out and submitted, navigate to the Landing Page as signed in
   - When an incorrect entry is made, display an appropriate message
   
-  ## Login Page
+  ### Login Page
   - Implement a form that will sign in a user
   - The form shall use a textbox to collect a user name
   - The user name shall be required
@@ -69,12 +69,12 @@ The Test Plan should be created to help the project's team members communicate 
   - When a correct combination of user id and password have been submitted, navigate to the Landing Page as signed in
   - When an incorrect combination of user id and password have been submitted, display an appropriate message
   
-  ## Landing Page
+  ### Landing Page
   - When not signed in, the landing page shall display a list of articles from the NewsAPI "General" category
   - The landing page shall have a link/button to refresh the list of articles
   - When signed in, the landing page shall display a link/button to open a Settings page
   
-  ## Settings Page
+  ### Settings Page
   - Implement a form that will save the user’s preferences
   - Allow the user to choose one or more of these categories
   - The form shall use a button, link, or image to submit 
